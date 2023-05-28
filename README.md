@@ -1,4 +1,5 @@
 # INFRAN_SP2
+![example workflow](https://github.com/ViktorEjik/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 ## Описание
 API сервиса YaMDB с Docker контейнером.
 ## Технологии
